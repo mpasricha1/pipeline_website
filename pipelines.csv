@@ -1,0 +1,51 @@
+134,CHEYENNE PLAINS GAS PIPELINE,Kinder Morgan,,143363542,,,9/22/2021,9/22/2021
+135,COLORADO INTERSTATE GAS CO.,Kinder Morgan,,6914865,,,9/22/2021,9/22/2021
+136,ELBA EXPRESS,Kinder Morgan,,828834445,,,9/22/2021,9/22/2021
+137,EL PASO NATURAL GAS CO. L.L.C.,Kinder Morgan,,8001703,,,9/22/2021,9/22/2021
+138,HORIZON PIPELINE COMPANY,Kinder Morgan,,51706161,,,9/22/2021,9/22/2021
+139,NKM ILLINOIS PIPELINE LLC,Kinder Morgan,,796506058,,,9/22/2021,9/22/2021
+140,KM LOUISIANA PIPELINE,Kinder Morgan,,809611911,,,9/22/2021,9/22/2021
+141,MIDCONTINENT EXPRESS PIPELINE,Kinder Morgan,,808150895,,,9/22/2021,9/22/2021
+142,MOJAVE P/L CO,Kinder Morgan,,620365619,,,9/22/2021,9/22/2021
+143,NATURAL GAS PIPELINE CO.,Kinder Morgan,,6931794,,,9/22/2021,9/22/2021
+144,RUBY PIPELINE,Kinder Morgan,,13541571,,,9/22/2021,9/22/2021
+145,SIERRITA GAS PIPELINE,Kinder Morgan,,79564952,,,9/22/2021,9/22/2021
+146,SOUTHERN LNG,Kinder Morgan,,84376565,,,9/22/2021,9/22/2021
+147,TENNESSEE GAS PIPELINE,Kinder Morgan,,1939164,,,9/22/2021,9/22/2021
+148,TRANSCOLORADO GAS TRANS CO LLC,Kinder Morgan,,938939154,,,9/22/2021,9/22/2021
+149,WYOMING INTER. CO.,Kinder Morgan,,30669048,,,9/22/2021,9/22/2021
+155,Gulf South Pipeline Company LLC,Boardwalk,,78444247,,,9/22/2021,9/22/2021
+156,Texas Gas Transmission LLC,Boardwalk,,115972101,,,9/22/2021,9/22/2021
+157,TRANSCONTINENTAL GAS PIPE LINE COMPANY LLC,Williams,,7933021,,,9/22/2021,9/22/2021
+158,Columbia Gas Transmission LLC,TC Energy,,54748041,,,9/22/2021,9/22/2021
+159,Columbia Gulf Transmission LLC,TC Energy,,7854581,,,9/22/2021,9/22/2021
+160,Crossroads Pipeline Company,TC Energy,,808593164,,,9/22/2021,9/22/2021
+161,Millennium Pipeline Company L.L.C.,TC Energy,,607821050,,,9/22/2021,9/22/2021
+162,Portland Natural Gas Transmission System,TC Energy,,159747872,,,9/22/2021,9/22/2021
+163,ANR Pipeline Company,TC Energy,,6958581,,,9/22/2021,9/22/2021
+164,Bison Pipeline LLC,,,961777229,,,9/22/2021,9/22/2021
+165,Northern Natural Gas Company,,,784158214,,,9/22/2021,9/22/2021
+166,National Fuel Gas Supply Corporation,,,7912959,,,9/22/2021,9/22/2021
+167,Nothern Border Pipeline Company,,,21632583,,,9/22/2021,9/22/2021
+168,Vector Pipeline L.P.,,,879136682,,,9/22/2021,9/22/2021
+169,Ozark Gas Transmission L.L.C.,Blackbear,,618091672,,,9/22/2021,9/22/2021
+170,Destin Pipeline Company LLC.,Blackbear,,809423697,,,9/22/2021,9/22/2021
+171,BBT (Alatenn) LLC,Blackbear,,6900773,,,9/22/2021,9/22/2021
+122,BSP,Spectra Energy,,968195714,https://linkwc.spectraenergy.com/Pointdata/BSPAllPoints.csv,,9/22/2021,9/22/2021
+121,ALGONQUIN,Spectra Energy,,6951446,https://linkwc.spectraenergy.com/Pointdata/AgtAllPoints.csv,,9/22/2021,9/22/2021
+151,Trunkline Gas Company LLC,Energy Transfer,,7933062,https://tgcmessenger.energytransfer.com/ipost/locations/index?f=csv&extension=csv&asset=TGC&gasDay=,https://tgcmessenger.energytransfer.com/ipost/capacity/operationally-available-by-location?f=csv&extension=csv&asset=TGC&gasDay={}&cycleDesc={}&pointCd=&name=,9/22/2021,9/22/2021
+131,SESH,Spectra Energy,,808264746,https://linkwc.spectraenergy.com/Pointdata/SeshAllPoints.csv,,9/22/2021,9/22/2021
+123,EAST TENN,Spectra Energy,,7921323,https://linkwc.spectraenergy.com/Pointdata/EtAllPoints.csv,,9/22/2021,9/22/2021
+154,FLORIDA GAS TRANSMISSION COMPANY LLC,Energy Transfer,,6924518,https://fgttransfer.energytransfer.com/ipost/locations/index?f=csv&extension=csv&asset=FGT&gasDay=,https://fgttransfer.energytransfer.com/ipost/capacity/operationally-available?f=csv&extension=csv&asset=FGT&gasDay={}&cycle={}&searchType=NOM&searchString=&locType=ALL&locZone=ALL,9/22/2021,9/22/2021
+126,MISSISSIPPI CANYON,Spectra Energy,,962767138,https://linkwc.spectraenergy.com/Pointdata/MCGPAllPoints.csv,,9/22/2021,9/22/2021
+153,Sea Robin Pipeline Company LLC,Energy Transfer,,45943644,https://sermessenger.energytransfer.com/ipost/locations/index?f=csv&extension=csv&asset=SER&gasDay=,https://sermessenger.energytransfer.com/ipost/capacity/operationally-available-by-location?f=csv&extension=csv&asset=SER&gasDay={}&cycleDesc={}&pointCd=&name=,9/22/2021,9/22/2021
+132,SABAL,Spectra Energy,,930373670,https://linkwc.spectraenergy.com/Pointdata/STTAllPoints.csv,,9/22/2021,9/22/2021
+133,TX EAST TRAN,Spectra Energy,,7932908,https://linkwc.spectraenergy.com/Pointdata/TeAllPoints.csv,,9/22/2021,9/22/2021
+124,GARDEN BANKS,Spectra Energy,,966981599,https://linkwc.spectraenergy.com/Pointdata/GBAllPoints.csv,,9/22/2021,9/22/2021
+152,Rover Pipeline LLC,Energy Transfer,,79717714,https://rovermessenger.energytransfer.com/ipost/locations/index?f=csv&extension=csv&asset=ROVER&gasDay=,https://rovermessenger.energytransfer.com/ipost/capacity/operationally-available-by-location?f=csv&extension=csv&asset=ROVER&gasDay={}&cycleDesc={}&pointCd=&name=,9/22/2021,9/22/2021
+150,Panhandle Eastern Pipe Line Company LP,Energy Transfer,,45256641,https://peplmessenger.energytransfer.com/ipost/locations/index?f=csv&extension=csv&asset=PEPL&gasDay=,https://peplmessenger.energytransfer.com/ipost/capacity/operationally-available-by-location?f=csv&extension=csv&asset=PEPL&gasDay={}&cycleDesc={}&pointCd=&name=,9/22/2021,9/22/2021
+125,GPL,Spectra Energy,,36638044,,,9/22/2021,9/22/2021
+127,M&N US,Spectra Energy,,81787256,https://linkwc.spectraenergy.com/Pointdata/MnusAllPoints.csv,,9/22/2021,9/22/2021
+128,NAUTILUS,Spectra Energy,,176824738,https://linkwc.spectraenergy.com/Pointdata/NPCAllPoints.csv,,9/22/2021,9/22/2021
+129,NEXUS US,Spectra Energy,,80151107,https://linkwc.spectraenergy.com/Pointdata/NXUSAllPoints.csv,,9/22/2021,9/22/2021
+130,OGT,Spectra Energy,,618091672,https://linkwc.spectraenergy.com/Pointdata/OgtAllPoints.csv,,9/22/2021,9/22/2021
